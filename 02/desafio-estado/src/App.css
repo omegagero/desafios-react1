@@ -1,0 +1,21 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #217382;
+}
+
+.app-container {
+  background-color: #7ec5dd; /* Color de fondo deseado */
+  padding: 20px; /* Ajusta el espaciado según sea necesario */
+}
