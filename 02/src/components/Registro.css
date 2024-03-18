@@ -1,0 +1,15 @@
+.registro-container {
+    display: flex; 
+   
+   align-content: center;
+   padding-left: 10px;
+ 
+   
+  }
+  
+.registro-container button{
+
+margin: 10px;
+
+}
+  
