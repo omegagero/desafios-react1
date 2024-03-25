@@ -123,6 +123,7 @@ const Formulario = ({ agregarColaborador }) => {
 
       <br />
       {error && <Alert type="danger" message={errorMessage} />}
+  
       {success && <Alert type="success" message={`Colaborador Agregado (ID=${contador-1})`} />}
     </form>
   );

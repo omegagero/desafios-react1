@@ -12,6 +12,7 @@ function App() {
 
   const agregarColaborador = (nuevoColaborador) => {
     setColaboradores([...colaboradores, nuevoColaborador]);
+    
   };
 
   return (
